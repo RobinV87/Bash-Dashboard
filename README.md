@@ -31,5 +31,6 @@ for future proofing there is also the next couple of functions to add later or i
 <p>Personally I love a cyber feel to my programs, feel free to change that to whatever colors you like! Go crazy! Ok, a bit more normal, CRAZY AGAIN!</p>
 
 <h3>Changelog 02-07-2024:</h3>
-  * Changed the appointmentslist, it would save non chronologically and now it does!
-  * Changed how many tasks there are shown, I got too many tasks which made it clutter, now it shows 3 tasks max and then it says +(i) more tasks
+  <ul>
+  <li>Changed the appointmentslist, it would save non chronologically and now it does!</li>
+  <li>Changed how many tasks there are shown, I got too many tasks which made it clutter, now it shows 3 tasks max and then it says +(i) more tasks</li>
