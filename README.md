@@ -7,4 +7,4 @@ As someone with ADD, I really need some grip in my life and while using a lot of
 
 From here out I'm goint to future build this project to make my life easier and simpler. Maybe it can help you too!
 
-![Picture of the Dashboard](https://my.hidrive.com/lnk/Aw9WlTAlX)
+![Picture of the Dashboard](Dashboard.png)
