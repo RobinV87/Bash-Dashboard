@@ -12,20 +12,20 @@ From here out I'm goint to future build this project to make my life easier and 
 <h1>How does it work?</h1>
 
 There are two files combined with Dashboard.sh
-<li>
-  <ul>appointmentslist.sh</ul>
-  <ul>tasklist.sh</ul>
-</li>
+<ul>
+  <li>appointmentslist.sh</li>
+  <li>tasklist.sh</li>
+</ul>
 <p> Right now you still have to load up seperately the two programs to add appointments and tasklists. /n
 there are two txt files that will store your appointments and tasks. /n
 Next up is a weather function where you have to change your lengtitude/longtitude for accurate weather other than my location. (did I just doxx myself? :O, nah it's in a completely different part of town.) /n
 for future proofing there is also the next couple of functions to add later or ignore.</p>
-<li>
-  <ul>Goals</ul>
-  <ul>Habits</ul>
-  <ul>Notes</ul>
-  <ul>Qoutes</ul>
-</li>
+<ul>
+  <li>Goals</li>
+  <li>Habits</li>
+  <li>Notes</li>
+  <li>Qoutes</li>
+</ul>
 
 <h3>Colors</h3>
 <p>Personally I love a cyber feel to my programs, feel free to change that to whatever colors you like! Go crazy! Ok, a bit more normal, CRAZY AGAIN!</p>
