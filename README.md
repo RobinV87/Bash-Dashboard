@@ -16,9 +16,9 @@ There are two files combined with Dashboard.sh
   <li>appointmentslist.sh</li>
   <li>tasklist.sh</li>
 </ul>
-<p> Right now you still have to load up seperately the two programs to add appointments and tasklists. /n
-there are two txt files that will store your appointments and tasks. /n
-Next up is a weather function where you have to change your lengtitude/longtitude for accurate weather other than my location. (did I just doxx myself? :O, nah it's in a completely different part of town.) /n
+<p> Right now you still have to load up seperately the two programs to add appointments and tasklists.
+there are two txt files that will store your appointments and tasks.
+Next up is a weather function where you have to change your lengtitude/longtitude for accurate weather other than my location. (did I just doxx myself? :O, nah it's in a completely different part of town.)
 for future proofing there is also the next couple of functions to add later or ignore.</p>
 <ul>
   <li>Goals</li>
